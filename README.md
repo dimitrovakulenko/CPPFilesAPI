@@ -17,7 +17,7 @@ This library opens up a variety of possibilities for manipulating and understand
 ## Quick start
 
 Here is a basic example of how to access the root of the AST of some valid CPP14 code:
-(taken from https://github.com/dimitrovakulenko/CPPFilesAPI/blob/main/AntlrCSharpTests/TreeWalkTests.cs )
+(taken from https://github.com/dimitrovakulenko/CPPFilesAPI/blob/main/CPPFilesAPITests/TreeWalkTests.cs )
 
 ```csharp
 var inputStream = new AntlrInputStream(text.ToString());
