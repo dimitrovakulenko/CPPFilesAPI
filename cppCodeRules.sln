@@ -1,11 +1,10 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPPFilesAPI", "AntlrCSharp\CPPFilesAPI.csproj", "{D6C2CE3D-0DD3-4A09-A2F5-B3A2CE6967FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPPFilesAPI", "CPPFilesAPI\CPPFilesAPI.csproj", "{D6C2CE3D-0DD3-4A09-A2F5-B3A2CE6967FB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPPFilesAPITests", "AntlrCSharpTests\CPPFilesAPITests.csproj", "{E0FD5681-65DE-4E5C-8FC8-F673BE7A2442}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CPPFilesAPITests", "CPPFilesAPITests\CPPFilesAPITests.csproj", "{E0FD5681-65DE-4E5C-8FC8-F673BE7A2442}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examples", "Examples\Examples.csproj", "{278311AC-88D4-4437-970A-BA78599104C7}"
 EndProject

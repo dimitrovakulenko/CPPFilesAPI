@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AntlrCSharp\CPPFilesAPI.csproj" />
+    <ProjectReference Include="..\CPPFilesAPI\CPPFilesAPI.csproj" />
   </ItemGroup>
 
   <ItemGroup>
